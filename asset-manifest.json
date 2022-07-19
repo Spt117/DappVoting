@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DappVoting/static/css/main.a021d527.chunk.css",
+    "main.js": "/DappVoting/static/js/main.053c0692.chunk.js",
+    "main.js.map": "/DappVoting/static/js/main.053c0692.chunk.js.map",
+    "runtime-main.js": "/DappVoting/static/js/runtime-main.a4b50037.js",
+    "runtime-main.js.map": "/DappVoting/static/js/runtime-main.a4b50037.js.map",
+    "static/js/2.2df1c6d4.chunk.js": "/DappVoting/static/js/2.2df1c6d4.chunk.js",
+    "static/js/2.2df1c6d4.chunk.js.map": "/DappVoting/static/js/2.2df1c6d4.chunk.js.map",
+    "index.html": "/DappVoting/index.html",
+    "static/css/main.a021d527.chunk.css.map": "/DappVoting/static/css/main.a021d527.chunk.css.map",
+    "static/js/2.2df1c6d4.chunk.js.LICENSE.txt": "/DappVoting/static/js/2.2df1c6d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4b50037.js",
+    "static/js/2.2df1c6d4.chunk.js",
+    "static/css/main.a021d527.chunk.css",
+    "static/js/main.053c0692.chunk.js"
+  ]
+}
